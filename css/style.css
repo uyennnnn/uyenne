@@ -1,0 +1,49 @@
+/* p{
+    color: red;
+} */
+/* .thechu{
+    color: blue;
+} */
+/* #chu{
+    color: red;
+} */
+/* li{
+    color: red;
+    text-transform: uppercase;
+
+
+}
+ul {
+    list-style: none;
+    display: flex   ;
+    } */
+/* .item{
+color: aqua;
+} */
+
+ul{
+    display: flex;
+}
+/* #id{
+    color: yellow;
+}
+
+#menu1{
+    color: blue;
+}
+p{
+    font-weight: 700;
+    font-size: 50px;
+    text-align: center;
+}
+a{
+    text-decoration: none;
+}
+img{
+    width: 50% ;
+} */
+.flex-container{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
